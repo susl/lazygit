@@ -557,6 +557,7 @@ keybinding:
     rebaseBranch: r
     renameBranch: R
     mergeIntoCurrentBranch: M
+    moveCommitsToNewBranch: "N"
     viewGitFlowOptions: i
     fastForward: f
     createTag: T
